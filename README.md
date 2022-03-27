@@ -1,2 +1,2 @@
 # M.Sc.I.T_Study_Material
-all study materials of Mumbai university
+All four subject study materials of Mumbai university
